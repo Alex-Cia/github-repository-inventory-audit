@@ -1,0 +1,4 @@
+Repository Name,Archived,Private,URL,Last Updated,Default Branch,Branch Count
+example-platform-service,False,True,https://github.com/example-org/example-platform-service,2024-04-27T02:08:33Z,main,1
+example-archived-api,True,True,https://github.com/example-org/example-archived-api,2023-11-14T09:22:10Z,main,3
+example-data-tooling,False,False,https://github.com/example-org/example-data-tooling,2025-01-08T16:45:31Z,main,2
