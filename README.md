@@ -14,7 +14,7 @@ This tool helps platform and engineering teams improve visibility across GitHub 
 The screenshot below shows the generated repository inventory output opened as a CSV.
 
 Sensitive repository names, private URLs, or organization details have been sanitized before publishing.
-![example_respository_inventory_csv_output.png](assets/example_respository_inventory_csv_output.png)
+![example_repository_inventory_csv_output.png](assets/example_repository_inventory_csv_output.png)
 ---
 
 # Why this project exists
