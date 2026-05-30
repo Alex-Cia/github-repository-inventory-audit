@@ -5,15 +5,17 @@ This tool helps platform and engineering teams improve visibility across GitHub 
 # 🖥️ Terminal run
 
 ### The screenshot below shows the script running locally and generating the repository inventory CSV.
+
 ![repository_inventory_audit_terminal_output.png](assets/repository_inventory_audit_terminal_output.png)
 
 ---
 
 # 📄 Example CSV output
 
-The screenshot below shows the generated repository inventory output opened as a CSV.
+### The screenshot below shows the generated repository inventory output opened as a CSV.
 
 Sensitive repository names, private URLs, or organization details have been sanitized before publishing.
+
 ![example_repository_inventory_csv_output.png](assets/example_repository_inventory_csv_output.png)
 ---
 
